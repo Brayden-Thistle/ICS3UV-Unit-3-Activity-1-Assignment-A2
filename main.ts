@@ -2,7 +2,7 @@
  * @author Brayden Thistle
  * @version 1.0.0
  * @date 2025-11-14
- * @fileoverview this program 
+ * @fileoverview this program displays the area of a circle
  */
 
 //equation and answer using cube root.
